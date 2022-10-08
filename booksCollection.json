@@ -1201,5 +1201,10 @@
          "bookLink"   : "https://www.oreilly.com/library/view/elegant-scipy/9781491922927/"
       },
 
-
+      {
+         "id" : "195",
+         "bookName" : "C In Depth",
+         "authorName" : "S.K.Srivastava/Deepali Srivastava",
+         "bookLink"   : "https://www.amazon.in/C-Depth-Deepali-Srivastava/dp/8183330487"
+      },
 ]
